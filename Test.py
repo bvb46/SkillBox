@@ -1,1 +1,2 @@
-print('Hellow World')
+line = 'Hellow World'
+print(line)
