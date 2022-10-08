@@ -1,1 +1,3 @@
-num = int(input('Введите число'))
+num = int(input('Введите число '))
+for i in range(num):
+    print(i, end = ' ')
